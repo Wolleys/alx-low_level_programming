@@ -33,3 +33,18 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
 * All your files should end with a new line
 * The first line of all your files should be exactly `#!/bin/bash`
+
+# Tasks
+Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Preprocessor  | `0-preprocessor`  | Run a C file through the preprocessor |
+| 1. Compiler | `1-compiler` | Compile a C file but don't link |
+| 2. Assembler | `2-assembler` | Generate the assembly code of a C code |
+| 3. Name | `3-name` | Compile a C file and creates an executable |
+| 4. Hello, puts | `4-puts.c` | Print exactly |
+| 5. Hello, printf | `5-printf.c` | Print exactly |
+| 6. Size is not grandeur, and territory does not make a nation | `6-size.c` | Print the size of various types |
+| 7. Intel | `100-intel` | Generate the assembly code (Intel syntax) |
+| 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity | `101-quote.c` | Print exactly |
