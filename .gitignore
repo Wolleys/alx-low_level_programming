@@ -1,4 +1,9 @@
-/*~
-_putchar.c
-a.out
-/main*
+# Ignore Emacs buffer files
+*~
+*#
+
+# Ignore main files
+main*
+
+# Ignore executable files
+*.out
