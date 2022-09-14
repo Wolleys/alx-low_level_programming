@@ -7,7 +7,6 @@
  * _islower - return 1 if c is lowercase, 0 otherwise
  * _isalpha - return 1 if c is upper or lowercase, 0 otherwise
  * print_sign - return 1 for positive, 0 for 0, and -1 for negative
-
  */
 
 int _putchar(char);
