@@ -10,6 +10,7 @@
  * _abs - computes absolute value of integer
  * print_last_digit - print last digit
  * jack_bauer - prints all minutes of the day
+ * times_table - prints times table up to 9
  
  */
 
@@ -22,4 +23,5 @@ int print_sign(int);
 int _abs(int);
 int print_last_digit(int);
 void jack_bauer(void);
+void times_table(void);
 
