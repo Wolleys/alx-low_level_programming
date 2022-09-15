@@ -24,3 +24,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
 * The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 * Don’t forget to push your header file
+
+# Tasks
+Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. _putchar  | `0-putchar.c`  | Print `_putchar`, followed by a new line |
