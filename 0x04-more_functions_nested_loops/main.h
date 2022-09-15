@@ -13,6 +13,7 @@
 * print a line of n length
 * print a diagonal line of n length
 * print a square of n size
+* print a triangle of n size
 
 **/
 
@@ -26,5 +27,6 @@ void more_numbers(void);
 void print_line(int);
 void print_diagonal(int);
 void print_square(int);
+void print_triangle(int);
 
 #endif /* MAIN_H */
