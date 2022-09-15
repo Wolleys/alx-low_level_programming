@@ -12,6 +12,7 @@
 * more_numbers - print 0-14 ten times
 * print a line of n length
 * print a diagonal line of n length
+* print a square of n size
 
 **/
 
@@ -24,5 +25,6 @@ void print_most_numbers(void);
 void more_numbers(void);
 void print_line(int);
 void print_diagonal(int);
+void print_square(int);
 
 #endif /* MAIN_H */
