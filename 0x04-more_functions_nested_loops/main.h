@@ -10,6 +10,7 @@
 * _putchar - writes the character c to stdout
 * print_most_numbers - print 0-9 w/out 2 and 4
 * more_numbers - print 0-14 ten times
+* print a line of n length
 
 **/
 
@@ -20,5 +21,6 @@ void print_numbers(void);
 int _putchar(char);
 void print_most_numbers(void);
 void more_numbers(void);
+void print_line(int);
 
 #endif /* MAIN_H */
