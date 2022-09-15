@@ -5,8 +5,8 @@
 # Ignore object files
 *.o
 
-# Ignore main files
-*-main.c
+# Ignore main files inside 0x02-functions_nested_loops
+0x02-functions_nested_loops/*-main.c
 
 # Ignore executable files
 *.out
