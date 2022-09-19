@@ -11,6 +11,9 @@
 # Ignore main files inside 0x04-more_functions_nested_loops
 0x04-more_functions_nested_loops/*-main.c
 
+# Ignore main files inside 0x05-pointers_arrays_strings
+0x05-pointers_arrays_strings/*-main.c
+
 # Ignore executable files
 *.out
 
