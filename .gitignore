@@ -17,6 +17,9 @@
 # Ignore main files inside 0x06-pointers_arrays_strings
 0x06-pointers_arrays_strings/*-main.c
 
+# Ignore main files inside 0x07-pointers_arrays_strings
+0x07-pointers_arrays_strings/*-main.c
+
 # Ignore executable files
 *.out
 
