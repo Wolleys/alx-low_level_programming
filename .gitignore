@@ -5,23 +5,11 @@
 # Ignore object files
 *.o
 
-# Ignore main files inside 0x02-functions_nested_loops
-0x02-functions_nested_loops/*-main.c
+# Ignore all main files
+*-main.c
 
-# Ignore main files inside 0x04-more_functions_nested_loops
-0x04-more_functions_nested_loops/*-main.c
-
-# Ignore main files inside 0x05-pointers_arrays_strings
-0x05-pointers_arrays_strings/*-main.c
-
-# Ignore main files inside 0x06-pointers_arrays_strings
-0x06-pointers_arrays_strings/*-main.c
-
-# Ignore main files inside 0x07-pointers_arrays_strings
-0x07-pointers_arrays_strings/*-main.c
-
-# Ignore main files inside 0x08-recursion
-0x08-recursion/*-main.c
+# Except the one in 0x03-debugging
+!0x03-debugging/*-main.c
 
 # Ignore executable files
 *.out
