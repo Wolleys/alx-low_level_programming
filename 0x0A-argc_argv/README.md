@@ -21,3 +21,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. It ain't what they call you, it's what you answer to | `0-whatsmyname.c` | The program prints it's name |
+| 1. Silence is argument carried out by other means | `1-args.c` | Print the number of arguments passed to a program |
+| 2. The best argument against democracy is a five-minute conversation with the average voter | `2-args.c` | Print all arguments a program receives |
+| 3. Neither irony nor sarcasm is argument | `3-mul.c` | Multiply two numbers |
+| 4. To infinity and beyond | `4-add.c` | Add positive numbers |
+| 5. Minimal Number of Coins for Change | `100-change.c` | Minimum number of coins to make change for an amount of money |
