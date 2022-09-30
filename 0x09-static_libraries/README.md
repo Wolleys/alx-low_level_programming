@@ -31,3 +31,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. A library is not a luxury but one of the necessities of life | `libmy.a, main.h`  | A static library libmy.a containing many functions |
+| 1. Without libraries what have we? We have no past and no future | `create_static_lib.sh` | A script called create_static_lib.sh |
