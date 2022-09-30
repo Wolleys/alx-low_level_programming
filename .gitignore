@@ -11,6 +11,9 @@
 # Except the one in 0x03-debugging
 !0x03-debugging/*-main.c
 
+# Ignore all .c file in 0x09-static_libraries
+0x09-static_libraries/*-*.c
+
 # Ignore executable files
 *.out
 
