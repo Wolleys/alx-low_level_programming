@@ -24,3 +24,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
  
  # Tasks
  Projects table
+
+ | Task Name  | File Name | Description |
+ | --------------- | ------------------------------ |---------------------------------------------------------------|
+ | 0. Float like a butterfly, sting like a bee  | `0-create_array.c`  | Create an array of chars, and initializes it with a specific char |
+ | 1. The woman who has no imagination has no wings | `1-strdup.c` | Return pointer to a newly allocated space in memory |
+ | 2. He who is not courageous enough to take risks will accomplish nothing in life | `2-str_concat.c` | Concatenate two strings |
+ | 3. If you even dream of beating me you'd better wake up and apologize | `3-alloc_grid.c` | Return a pointer to a 2 dimensional array of integers |
+ | 4. It's not bragging if you can back it up | `4-free_grid.c` | Free a 2 dimensional grid |
+ | 5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe | `100-argstostr.c` | Concatenate all the arguments of the program |
+ | 6. I will show you how great I am | `101-strtow.c` | Split a string into words |
