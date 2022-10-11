@@ -8,8 +8,9 @@
 # Ignore all main files
 *-main.c
 
-# Except the one in 0x03-debugging
+# Except the ones in:
 !0x03-debugging/*-main.c
+!0x0D-preprocessor/2-main.c
 
 # Ignore all .c file in 0x09-static_libraries
 0x09-static_libraries/*-*.c
