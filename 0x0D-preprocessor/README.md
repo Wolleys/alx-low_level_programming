@@ -24,3 +24,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Object-like Macro | `0-object_like_macro.h`  | A header file that defines a macro named `SIZE` |
+| 1. Pi | `1-pi.h` | A header file that defines a macro named `PI` |
+| 2. File name | `2-main.c` | Print the name of the file it was compiled from |
+| 3. Function-like macro | `3-function_like_macro.h` | A function-like macro `ABS(x)` that computes |
+| 4. SUM | `4-sum.h` | A function-like macro `SUM(x, y)` that computes |
