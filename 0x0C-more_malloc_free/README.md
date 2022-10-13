@@ -20,5 +20,14 @@ What are the functions `calloc` and `realloc` from the standard library and how 
 * The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 * Don’t forget to push your header file
  
-  # Tasks
-   Projects table
+# Tasks
+Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Trust no one  | `0-malloc_checked.c`  | Allocate memory using `malloc` |
+| 1. string_nconcat | `1-string_nconcat.c` | Concatenate two strings |
+| 2. _calloc | `2-calloc.c` | Allocate memory for an array, using `malloc` |
+| 3. array_range | `3-array_range.c` | Create an array of integers |
+| 4. _realloc | `100-realloc.c` | Reallocate a memory block using `malloc` and `free` |
+| 5. We must accept finite disappointment, but never lose infinite hope | `101-mul.c` | Multiply two positive numbers |
