@@ -23,3 +23,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Print list | `0-print_list.c`  | Print all the elements of a `list_t` list |
+| 1. List length | `1-list_len.c` | Return the number of elements in a linked `list_t` list |
+| 2. Add node | `2-add_node.c` | Add a new node at the beginning of a `list_t` list |
+| 3. Add node at the end | `3-add_node_end.c` | Add a new node at the end of a `list_t` list |
+| 4. Free list | `4-free_list.c` | Free a `list_t` list |
+| 5. The Hare and the Tortoise | `100-first.c` | A function that prints |
+| 6. Real programmers can write assembly code in any language | `101-hello_holberton.asm` | A 64-bit program in assembly that prints |
