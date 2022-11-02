@@ -24,3 +24,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Tread lightly, she is near | `0-read_textfile.c` | Read a text file and prints it to the `POSIX` standard output |
+| 1. Under the snow | `1-create_file.c` | Create a file |
+| 2. Speak gently, she can hear | `2-append_text_to_file.c` | Append text at the end of a file |
+| 3. cp | `3-cp.c` | Copy the content of a file to another file |
+| 4. elf | `100-elf_header.c` | Display the information contained in the `ELF` header |
