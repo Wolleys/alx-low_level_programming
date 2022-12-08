@@ -21,4 +21,19 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your header files should be include guarded
 
 # Tasks
-Projects table
+Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Print list  | `0-print_dlistint.c`  | Print all the elements of a `dlistint_t` list |
+| 1. List length | `1-dlistint_len.c` | Return the number of elements in a linked `dlistint_t` list |
+| 2. Add node | `2-add_dnodeint.c` | Add a new node at the beginning of a `dlistint_t` list |
+| 3. Add node at the end | `3-add_dnodeint_end.c` | Add a new node at the end of a `dlistint_t` list |
+| 4. Free list | `4-free_dlistint.c` | Free a `dlistint_t` list |
+| 5. Get node at index | `5-get_dnodeint.c` | Return the nth node of a `dlistint_t` linked list |
+| 6. Sum list | `6-sum_dlistint.c` | Return the sum of all the data (n) of a `dlistint_t` linked list |
+| 7. Insert at index | `7-insert_dnodeint.c, 2-add_dnodeint.c, 3-add_dnodeint_end.c` | Insert a new node at a given position |
+| 8. Delete at index | `8-delete_dnodeint.c` | Delete the node at index index of a `dlistint_t` linked list |
+| 9. Crackme4 | `100-password` | Find the password for [crackme4](https://github.com/holbertonschool/0x17.c) |
+| 10. Palindromes | `102-result` | Largest palindrome made from the product of two 3-digit numbers |
+| 11. crackme5 | `103-keygen.c` | The keygen for [crackme5](https://github.com/holbertonschool/0x17.c) |
