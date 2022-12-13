@@ -16,6 +16,9 @@
 # Ignore all .c file in 0x09-static_libraries
 0x09-static_libraries/*-*.c
 
+# Ignore all .c file in 0x09-static_libraries
+0x18-dynamic_libraries/*-*.c
+
 # Ignore executable files
 *.out
 
