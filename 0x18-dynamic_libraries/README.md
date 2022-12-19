@@ -36,4 +36,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your files must be executable
 
 # Tasks
-Projects table
+Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. A library is not a luxury but one of the necessities of life | `libdynamic.so, main.h`  | Dynamic library libdynamic.so containing many functions |
+| 1. Without libraries what have we? We have no past and no future | `1-create_dynamic_lib.sh` | Create a dynamic library called `liball.so` |
+| 2. Let's call C functions from Python | `100-operations.so` | Dynamic library that contains C functions that can be called from Python |
+| 3. Code injection: Win the Giga Millions! | `101-make_me_win.sh` | Could you make me win the Jackpot? |
