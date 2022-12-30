@@ -1,6 +1,13 @@
 # Argc, Argv
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
+2. [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
+3. [What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
+4. [How to compile with unused variables](https://www.google.com/webhp?q=unused+variable+C)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * How to use arguments passed to your program
@@ -20,7 +27,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * You are allowed to use the standard library
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
