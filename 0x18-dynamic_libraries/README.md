@@ -1,6 +1,11 @@
 # Dynamic libraries
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM)
+2. [Create dynamic libraries on Linux](https://www.google.com/#q=linux+create+dynamic+library)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What is a dynamic library, how does it work, how to create one, and how to use it
