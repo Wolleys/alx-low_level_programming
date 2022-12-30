@@ -1,10 +1,14 @@
 # More malloc, free
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Do I cast the result of malloc?](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * How to use the `exit` function
-What are the functions `calloc` and `realloc` from the standard library and how to use them
+* What are the functions `calloc` and `realloc` from the standard library and how to use them
 
 # Requirements
 * Allowed editors: `vi`, `vim`, `emacs`
@@ -21,7 +25,7 @@ What are the functions `calloc` and `realloc` from the standard library and how 
 * Don’t forget to push your header file
  
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
