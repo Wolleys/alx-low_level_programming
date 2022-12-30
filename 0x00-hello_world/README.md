@@ -1,6 +1,19 @@
 # Hello, World
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221230%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221230T095651Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9cf22d4779bc9553729b11eac645c1068c84f8466b32642c47ad1e117edc03a9)
+2. [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+3. [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+4. [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+5. [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+6. [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
+7. [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+8. [Betty Coding Style](https://github.com/holbertonschool/Betty/wiki)
+9. [Hash-bang under the hood](https://twitter.com/unix_byte/status/1024147947393495040?s=21) (Look at only after you finish consuming the other resources)
+10. [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus) (Look at only after you finish consuming the other resources)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * Why C programming is awesome
@@ -35,7 +48,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * The first line of all your files should be exactly `#!/bin/bash`
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
