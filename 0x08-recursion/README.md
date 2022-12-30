@@ -1,6 +1,14 @@
 # Recursion
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [0x08. Recursion, introduction](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221230%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221230T110801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6c7c63c8c38e9df45d1644f2511c6e6cb00f2c099b1d4fb0dba4b4e39be246a5)
+2. [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+3. [C - Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
+4. [C Programming Tutorial 85, Recursion pt.1](https://www.youtube.com/watch?v=XGxbXMP6k8k)
+5. [C Programming Tutorial 86, Recursion pt.2](https://www.youtube.com/watch?v=7XiIS6HobNs)
+
+#Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What is recursion
@@ -25,7 +33,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * You are not allowed to use `static` variables
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
