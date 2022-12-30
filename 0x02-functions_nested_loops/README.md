@@ -1,6 +1,14 @@
 # Functions, nested loops
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+2. [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+3. [Learning to Program in C (Part 06) ](https://www.youtube.com/watch?v=qMlnFwYdqIw) (stop at 14:00)
+4. [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+5. [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) (stop before the “Once-Only Headers” paragraph)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are nested loops and how to use them
@@ -26,7 +34,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Don’t forget to push your header file
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
