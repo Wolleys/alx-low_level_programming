@@ -1,4 +1,10 @@
 # Debugging
+
+# Resources
+1. [Debugging](https://en.wikipedia.org/wiki/Debugging)
+2. [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
+
+# Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg),
 **without the help of Google:**
 
@@ -15,7 +21,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * A `README.md` file at the root of the repo, containing a description of the repository
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
