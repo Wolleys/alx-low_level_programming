@@ -1,6 +1,21 @@
 # Singly linked lists
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
+2. [Google](https://www.google.com/#q=linked+lists)
+3. [Youtube](https://www.youtube.com/results?search_query=linked+lists)
+
+# Concepts
+## Data Structures
+* Basics (Read deep into either for explanations of common data structures):
+1. [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm)
+2. [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/)
+
+* How to Select the Appropriate Data Structure:
+1. [Career Drill](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * When and why using linked lists vs arrays
@@ -22,7 +37,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your header files should be include guarded
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
