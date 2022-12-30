@@ -1,6 +1,16 @@
 # Structures, typedef
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [0x0d. Structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/6eb80c79c99f6125450a0dc11b300d46238d1a5a.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221230%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221230T114643Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=616cb980ed6820c2193d88fd724f32784bbc20940f533b813b2cdfca4291a0b7)
+2. [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
+3. [Documentation: structures](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
+4. [0x0d. Typedef and structures.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/c8ff3e6f7202be7fa489a584e41d005504a07c23.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221230%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221230T114826Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e6953995dbbdd710a3cc8ce5725d0ea34d9bb3fed4e3ea2f9345b3c1509c018)
+5. [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
+6. Programming in C by Stephen Kochan - Chapter 8, Working with Structures p163-189
+7. [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (Advanced - not mandatory)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are structures, when, why and how to use them
@@ -19,7 +29,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your header files should be include guarded
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
