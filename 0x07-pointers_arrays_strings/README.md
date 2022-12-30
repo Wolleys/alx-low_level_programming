@@ -1,6 +1,13 @@
 # Even more pointers, arrays and strings
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [C - Pointer to Pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
+2. [C – Pointer to Pointer with example](https://beginnersbook.com/2014/01/c-pointer-to-pointer/)
+3. [Multi-dimensional Arrays in C](https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm)
+4. [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are pointers to pointer and how to use them
@@ -22,7 +29,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Don’t forget to push your header file
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
@@ -33,6 +40,4 @@ Projects table
 | 4. strpbrk | `4-strpbrk.c` | Search a string for any of a set of bytes |
 | 5. strstr | `5-strstr.c` | Locate a substring |
 | 6. Chess is mental torture | `7-print_chessboard.c` | Print the chessboard |
-| 7. The line of life is a ragged diagonal between duty and desire | `8-print_diagsums.c` | Sum of the two diagonals of a square matrix of integers |
-| 8. Double pointer, double fun | `100-set_string.c` | Set the value of a pointer to a char |
-| 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure | `101-crackme_password` | The password for the crackme2 executable |
+| 7. The line of life is a ragged diagonal between duty and desire | `8-print_diagsums.c` | 
