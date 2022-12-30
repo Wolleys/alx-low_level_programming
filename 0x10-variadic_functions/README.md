@@ -1,6 +1,12 @@
 # Variadic functions
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
+2. [Variadic Functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
+3. [Const Keyword](https://www.youtube.com/watch?v=1W4oyuOdXv8)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are variadic functions
@@ -24,7 +30,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your header files should be include guarded
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
