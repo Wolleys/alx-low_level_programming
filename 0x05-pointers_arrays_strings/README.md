@@ -1,6 +1,13 @@
 # Pointers, arrays and strings
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [C - Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
+2. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+3. [C - Strings](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+4. [Memory Layout](https://aticleworld.com/memory-layout-of-c-program/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are pointers and how to use them
@@ -24,7 +31,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Don’t forget to push your header file
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
