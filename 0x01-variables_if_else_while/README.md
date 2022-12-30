@@ -1,6 +1,19 @@
 # Variables, if, else and while
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221230%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221230T101650Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7b4f84d96df21ccfa3b7b29f8f5fd49494d64812a37ef835ed262d574f133639) (You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.)
+2. [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
+3. [Integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
+4. [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+5. [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+6. [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
+7. [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+8. [Logical operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
+9. [while loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+10. [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are the arithmetic operators and how to use them
@@ -29,7 +42,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
