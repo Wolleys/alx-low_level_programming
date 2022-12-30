@@ -1,6 +1,14 @@
 # Function pointers
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
+2. [Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
+3. [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)
+4. [Why pointers to functions?](https://www.youtube.com/watch?v=sxTFSDAZM8s)
+5. [Everything you need to know about pointers in C](https://boredzo.org/pointers/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * What are function pointers and how to use them
@@ -23,7 +31,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your header files should be include guarded
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
