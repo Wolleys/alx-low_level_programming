@@ -74,3 +74,14 @@ Note that all dictionaries are not implemented using hash tables and there is a 
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. >>> ht = {} | `0-hash_table_create.c` | Create a hash table |
+| 1. djb2 | `1-djb2.c` | Implement the djb2 algorithm |
+| 2. key -> index | `2-key_index.c` |
+| 3. >>> ht['betty'] = 'cool' | `3-hash_table_set.c` | Add an element to the hash table |
+| 4. >>> ht['betty'] | `4-hash_table_get.c` | Retrieve a value associated with a key |
+| 5. >>> print(ht) | `5-hash_table_print.c` | Print a hash table |
+| 6. >>> del ht | `6-hash_table_delete.c` | Delete a hash table |
+| 7. $ht['Betty'] = 'Cool' | `100-sorted_hash_table.c` | Rewriting the previous functions using these data structures: |
