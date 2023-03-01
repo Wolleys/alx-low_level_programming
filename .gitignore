@@ -7,6 +7,7 @@
 
 # Ignore all main files
 *-main.c
+*-main.py
 
 # Except the ones in:
 !0x03-debugging/*-main.c
@@ -24,3 +25,6 @@
 
 # Ingnore _putchar.c
 _putchar.c
+
+# Directory
+__pycache__/
